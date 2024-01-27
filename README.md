@@ -31,7 +31,7 @@ Todo projeto de análise e ciência de dados começa com um problema de negócio
 
 * Plotar gráficos de barras e linhas com `matplotlib` para visualizar os resultados;
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Linguagens e ferramentas 🛠️</h3>
 
 <a href="https://www.python.org/">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
